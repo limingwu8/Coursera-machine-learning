@@ -1,0 +1,18 @@
+Dear Liming,
+
+As I have not heard from you since my last follow-up, I want to
+make sure that everything is going well with your evaluation of
+SecureCRT for Windows.
+
+Since you indicated one of your goals is to increase the
+productivity of your IT staff, I want to make sure you're aware
+of just some of the features in SecureCRT for Windows that are geared toward
+your goal.  These include scripting, keymapping, button bar,
+command window, plus many others.
+
+Are you looking for specific capabilities in this area?  I'd be
+happy to send you more details on how these and other features
+may help you in your specific environment.
+
+
+Sincerely,
